@@ -1,3 +1,4 @@
-num =100
-num -200
-num =300
+num1 =100
+num2 -200
+num3 =300
+xuyichangxiangjianrudu
